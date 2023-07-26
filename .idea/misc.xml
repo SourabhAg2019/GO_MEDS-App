@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Sourabh Agarwal/GO_MEDS/app/src/main/res/drawable/rounded_edge.xml" value="0.198" />
+        <entry key="..\:/Sourabh Agarwal/GO_MEDS/app/src/main/res/layout/activity_all_profile.xml" value="0.25416666666666665" />
+        <entry key="..\:/Sourabh Agarwal/GO_MEDS/app/src/main/res/layout/activity_change_password.xml" value="0.25416666666666665" />
+        <entry key="..\:/Sourabh Agarwal/GO_MEDS/app/src/main/res/layout/activity_donate_medicine.xml" value="0.2" />
+        <entry key="..\:/Sourabh Agarwal/GO_MEDS/app/src/main/res/layout/activity_donor_patient.xml" value="0.25416666666666665" />
+        <entry key="..\:/Sourabh Agarwal/GO_MEDS/app/src/main/res/layout/activity_final_donate_sell.xml" value="0.25416666666666665" />
+        <entry key="..\:/Sourabh Agarwal/GO_MEDS/app/src/main/res/layout/activity_forget_password.xml" value="0.25416666666666665" />
+        <entry key="..\:/Sourabh Agarwal/GO_MEDS/app/src/main/res/layout/activity_hospital.xml" value="0.25416666666666665" />
+        <entry key="..\:/Sourabh Agarwal/GO_MEDS/app/src/main/res/layout/activity_login.xml" value="0.2" />
+        <entry key="..\:/Sourabh Agarwal/GO_MEDS/app/src/main/res/layout/activity_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/Sourabh Agarwal/GO_MEDS/app/src/main/res/layout/activity_my_profile.xml" value="0.25416666666666665" />
+        <entry key="..\:/Sourabh Agarwal/GO_MEDS/app/src/main/res/layout/activity_opening_open_request.xml" value="0.25416666666666665" />
+        <entry key="..\:/Sourabh Agarwal/GO_MEDS/app/src/main/res/layout/activity_pharma.xml" value="0.25416666666666665" />
+        <entry key="..\:/Sourabh Agarwal/GO_MEDS/app/src/main/res/layout/activity_select_pharma.xml" value="0.25416666666666665" />
+        <entry key="..\:/Sourabh Agarwal/GO_MEDS/app/src/main/res/layout/activity_sign_up.xml" value="0.25416666666666665" />
+        <entry key="..\:/Sourabh Agarwal/GO_MEDS/app/src/main/res/layout/add_medicine_pop_up.xml" value="0.25416666666666665" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

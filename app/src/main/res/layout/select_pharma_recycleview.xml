@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="140dp"
+    android:layout_marginTop="2dp">
+
+    <RelativeLayout
+        android:id="@+id/select_pharma_card"
+        android:layout_width="380dp"
+        android:layout_height="120dp"
+        android:background="@drawable/rounded_edge"
+        android:elevation="5dp"
+        android:layout_marginTop="8dp"
+        android:paddingLeft="5dp"
+        android:paddingRight="5dp"
+        android:paddingTop="5dp"
+        android:paddingBottom="5dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.516"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.029">
+
+        <ImageView
+            android:id="@+id/pharma_imageview"
+            android:layout_width="80dp"
+            android:layout_height="58dp"
+            android:layout_marginTop="30dp"
+            app:srcCompat="@drawable/user" />
+
+        <TextView
+            android:id="@+id/pharma_name"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="80dp"
+            android:layout_marginTop="40dp"
+            android:gravity="left"
+            android:text="Harshit Medicos"
+            android:textSize="20sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/pharma_distance"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="left"
+            android:textSize="20sp"
+            android:textStyle="bold"
+            android:layout_marginLeft="80dp"
+            android:layout_marginTop="70dp"
+            android:elevation="2dp"
+            android:text="2 km" />
+
+    </RelativeLayout>
+
+</androidx.constraintlayout.widget.ConstraintLayout>
